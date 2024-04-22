@@ -1,0 +1,45 @@
+AI system: An AI system intended to be used for provoking people to commit crimes.
+Risk category: Unacceptable risk.
+
+AI system: An AI system intended to be used by the government to detect natural persons emotions.
+Risk category: Unacceptable risk.
+
+AI system: An AI system that is used for detecting wild plants found in nature. But also, scoring people socially.
+Risk category: Unacceptable risk.
+
+AI system: An AI system used in a video game determines the behaviors of NPCs and also provokes people to harm others by exploiting their vulnerabilities, which are identified based on their game choices.
+Risk category: Unacceptable risk.
+
+AI system: An AI system that is used for time management. Also, manipulate natural person’s ability to make an informed decision to cause significant harm to another person.
+Risk category: Unacceptable risk.
+
+AI system: An AI system used in a video game to determine the behaviors of the game NPCs.
+Risk category: Minimal risk.
+
+AI system: An AI system that is used for detecting wild plants found in nature.
+Risk category: Minimal risk.
+
+AI system: An AI system that is used to remind a person to drink water periodically.
+Risk category: Minimal risk.
+
+AI system: An AI system that is used to make movie recommendations based on the previous preferences of a person.
+Risk category: Minimal risk.
+
+AI system: An AI system intended to be used as a personal trainer.
+Risk category: Minimal risk.
+
+AI system: An AI system intended to evaluate the performance of persons in a workplace.
+Risk category: High risk.
+
+AI system: An AI system intended to be used to evaluate the creditworthiness of natural persons or establish their credit score.
+Risk category: High risk.
+
+AI system: An AI system that is used for evaluating or classifying emergency calls made by natural persons.
+Risk category: High risk.
+
+AI system: An AI system intended to be used for health risk assessments.
+Risk category: High risk.
+
+AI system: An AI system that is used by a judicial authority to apply the law to a concrete set of facts.
+Risk category: High risk.
+

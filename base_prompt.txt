@@ -1,0 +1,13 @@
+Categorize AI systems into four risk categories, that are 'Minimal risk’, ‘High-risk’, 'Unacceptable risk’, and ‘Limited risk' as defined by the EU AI Act.
+
+AI system: A government using AI to score it’s citizens socially.
+Risk category: Unacceptable risk.
+
+AI system: An AI system that is used as spam filters.
+Risk category: Minimal risk.
+
+AI system: An AI system that is used for detecting prohibited behaviours of students during tests in the context of education.
+Risk category: High risk.
+
+AI system: An AI system intended to be used as a chatbot.
+Risk category: Limited risk.
